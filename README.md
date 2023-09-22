@@ -1,4 +1,4 @@
-# Using Terraform to Create a Google Cloud Storage Bucket for a Website
+# Using Terraform to Create a Static Website and Hosting it on Google Cloud Storage Bucket
 
 This Terraform configuration allows you to set up a Google Cloud Storage bucket to host a website. It also includes configurations for setting up DNS records and a global forwarding rule for serving the website over HTTP.
 
